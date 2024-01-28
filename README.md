@@ -40,4 +40,5 @@ The function checks if there are any blue pixels in the image using cv2.countNon
 Depending on the result, it prints whether there is a problem with the wiring insulation or if it is properly insulated.
 Finally, it prints the total execution time of the function.
 
+The pictures used for testing the program was pictures of pens insulated with a thin layer of insulator
 This program is still incomplete due to the clients and my previous company not coming to a conclusion on financial side of the project,if you wish to contact me on the project,collaboration,pull requests or feedbacks feel free to contact me on any social media platform available on home page or my gmail
